@@ -4,9 +4,9 @@
 
 / {
     keymap {
-        compatible = "zmk,keymap";
+       compatible = "zmk,keymap";
 
-        default_layer { // Layer 0
+        default_layer {
             // -------------------------------------
             // |     ESC    |     N1    |     N2    |     N3    |     N4    |     N5    |
             // |     TAB    |     Q     |     W     |     E     |     R     |     T     |
@@ -22,7 +22,7 @@
             >;
         };
 
-         bt_layer { // Layer 1
+         lower_layer {
             // -------------------------------------
             // |     ESC    |     N1    |     N2    |     N3    |     N4    |     N5    |
             // |     TAB    |     Q     |     W     |     E     |     R     |     T     |
