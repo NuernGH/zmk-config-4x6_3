@@ -1,0 +1,12 @@
+id: 4x6_3
+name: 4x6_3
+type: shield
+
+# Optional but recommended
+description: "4×6 keyboard with 3 thumb keys"
+
+# The shield’s physical layout definition
+# (You can adjust rows/columns if needed)
+layout:
+  rows: 4
+  columns: 6
