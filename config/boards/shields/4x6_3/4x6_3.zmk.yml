@@ -1,0 +1,8 @@
+file_format: "1"
+id: 4x6_3
+name: 4x6_3
+type: shield
+url: https://kbd.dailycraft.jp/bat43/
+requires: [nice_nano_v2]
+features:
+  - keys
